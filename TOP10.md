@@ -284,35 +284,3 @@ iCHEF為回饋使用客戶，凡介紹新店家，我們將提供您$2000元抵�
 (1)	告知我們欲使用店家的聯絡人姓名、電話、店名、店家地址。同時別忘記留下您的基本資料。
 
 (2)	客服人員致電給欲使用客戶確認，轉由業務接洽，安裝完成後，公司系統會在推薦人下一次續約時扣除。
-
-
-
-
-# iPad 相關#
-
-# 出單機相關 #
-
-# 後台報表相關#
-
-# i發票、mPOS、直接付#
-
-
-
-
-----------------------------------------
-
-**MarkdownPad** is a full-featured Markdown editor for Windows.
-
-### Built exclusively for Markdown ###
-
-Give them a try:
-
-1. **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)
-2. Quotes (`Ctrl+Q`)
-3. Code blocks (`Ctrl+K`)
-4. Headings 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
-5. Lists (`Ctrl+U` and `Ctrl+Shift+O`)
-
-### See your changes instantly with LivePreview ###
-
-Don't guess if your [hyperlink syntax](http://markdownpad.com) is correct; LivePreview will show you exactly what your document looks like every time you press a key.
