@@ -233,7 +233,7 @@ iCHEF可以在拆單後，選擇每張子單要用現金還是信用卡結帳。
 
 請在iPad中將iCHEF的相機隱私權開啟，便能於作廢時開啟相機掃描發票。
 
-    > iPad設定＞隱私權＞相機＞打開iCHEF的App允許使用
+    > iPad設定＞隱私權＞相機＞「開啟」iCHEF的App允許使用
 
 ![Alt text](/IPAD/cameraprivacy.PNG)
 
