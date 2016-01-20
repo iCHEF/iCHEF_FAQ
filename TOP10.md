@@ -40,7 +40,7 @@
 
 
 
-![Alt text](/TOP10/gomaji-1.PNG)
+![Alt text](/TOP10/gomaji-2.PNG)
 
 
 **買一送一**
