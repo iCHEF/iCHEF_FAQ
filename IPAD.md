@@ -398,7 +398,7 @@ iCHEF可以在拆單後，選擇每張子單要用現金還是信用卡結帳。
 
 
 
-![Alt text](/TOP10/gomaji-2.PNG)
+![Alt text](/TOP10/gomaji-1.PNG)
 
 
 **買一送一**
