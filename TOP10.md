@@ -145,7 +145,7 @@
 
    事後補救：在只能開立收據的情況之下，可以把需要電子發票的客人資訊留下，事後補開單，並作廢收據。
 
-   發票字軌請至[財政部網站](http://www.einvoice.nat.gov.tw/)申請
+   發票字軌請至財政部網站：[http://www.einvoice.nat.gov.tw/](http://www.einvoice.nat.gov.tw/)申請
 
     
 > 小提醒：iPad桌位右下角工具箱＞系統資訊＞台灣電子發票，便可查詢本期發票可使用字軌存量。
