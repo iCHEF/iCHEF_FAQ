@@ -12,7 +12,7 @@
 [2．如何新增字軌（發票號碼）？](#2如何新增字軌發票號碼)
 
 
-[**mpos**](#mpos)
+[**mPos**](#mpos)
 
 [3．為甚麼mPos顯示刷卡失敗？](#3為甚麼mpos顯示刷卡失敗)
 
@@ -48,6 +48,7 @@
 
 ![Alt text](/SIDEPRODUCT/changename.PNG)
 
+[回到頂端TOP](#i發票mpos直接付)
 
 
 ###2．如何新增字軌（發票號碼）？###
@@ -60,6 +61,7 @@
 
 ![Alt text](/SIDEPRODUCT/changeinvoice.PNG)
 
+[回到頂端TOP](#i發票mpos直接付)
 
 
 ##mPOS##
@@ -85,6 +87,8 @@
 
 （2）若顯示已連線，但APP仍無法登入，請將讀卡機與iPad重新開機，並重新檢查藍芽連線狀態，成功配對時APP便可登入，即可使用刷卡功能。
 
+[回到頂端TOP](#i發票mpos直接付)
+
 
 ###4．關帳時發現mPOS刷卡金額短溢該如何處理？###
 
@@ -96,10 +100,14 @@
 
 mPOS商店管理平台：[https://mpos.ctbcbank.com/MP](https://mpos.ctbcbank.com/MP)
 
+[回到頂端TOP](#i發票mpos直接付)
+
 
 ###5．mPOS是所有信用卡都能刷嗎？###
 
 很抱歉，mPOS目前不支援美國大通（American Express）。
+
+[回到頂端TOP](#i發票mpos直接付)
 
 
 ###6．mPOS的APP中，取消與退貨的差別在哪？###
@@ -117,6 +125,8 @@ mPOS商店管理平台：[https://mpos.ctbcbank.com/MP](https://mpos.ctbcbank.co
 
 當天已經關帳（或是過11點鐘系統已經自動請款後）的交易皆可使用退貨功能，且凡退貨時需再刷過該張信用卡。
 
+[回到頂端TOP](#i發票mpos直接付)
+
 
 
 ###7．讀卡機為待機狀態，但APP仍停留「連線讀卡機」？###
@@ -124,11 +134,15 @@ mPOS商店管理平台：[https://mpos.ctbcbank.com/MP](https://mpos.ctbcbank.co
 請開啟平板或手機的藍牙設定功能查詢，確認藍牙已確實連線讀卡機，若顯示未連線時，
 長按![Alt text](/SIDEPRODUCT/mposreset.PNG)鍵約三秒後放開，讀卡機即處於可偵測狀態。
 
+[回到頂端TOP](#i發票mpos直接付)
+
 
 
 ###8．為何螢幕會自動關閉呢？###
 
 若2分鐘未進行交易時，讀卡機會自動休眠，當啟動APP交易時，會自動啟動。
+
+[回到頂端TOP](#i發票mpos直接付)
 
 
 ###9．當刷卡交易已授權成功，在操作簽名檔上傳時，APP跳掉未顯示最後完成之QR Code畫面，此時該如何處理？###
@@ -136,6 +150,8 @@ mPOS商店管理平台：[https://mpos.ctbcbank.com/MP](https://mpos.ctbcbank.co
 請於中信APP操作「最後一筆交易查詢」或至mPOS商店管理平台：[https://mpos.ctbcbank.com/MP](https://mpos.ctbcbank.com/MP)查詢交易功能，確認該筆交易是否成功。
 
 若顯示資訊非該筆交易時，表示該筆簽名檔未上傳成功，交易未完成，故請先從APP操作取消交易，恢復持卡人額度，再重新進行刷卡交易（交易前請再次確認藍芽是否正確連線至讀卡機）。
+
+[回到頂端TOP](#i發票mpos直接付)
 
 
 ###10．結帳後才發現刷卡金額有誤怎麼辦？###
@@ -148,11 +164,14 @@ mPOS商店管理平台：[https://mpos.ctbcbank.com/MP](https://mpos.ctbcbank.co
 
 如果不小心先於中信APP上作廢，導致iCHEF無法作廢的話，請致電iCHEF客服部門，我們將提供協助。
 
+[回到頂端TOP](#i發票mpos直接付)
+
 
 ###11．若不小心直接在中國信託APP端取消銷售，導致iCHEF發票無法作廢怎麼辦？###
 
 請致電iCHEF負責業務，或iCHEF客服部門（0800-889-055），我們將直接從系統後台為您更改。
 
+[回到頂端TOP](#i發票mpos直接付)
 
 
 ##直接付##
@@ -167,6 +186,7 @@ mPOS商店管理平台：[https://mpos.ctbcbank.com/MP](https://mpos.ctbcbank.co
 
 於左邊列表點選訂單查詢，設定欲查詢期間後便可得知結果。
 
+[回到頂端TOP](#i發票mpos直接付)
 
 
 ###13．直接付結帳後發現錯誤要如何取消？###
@@ -181,4 +201,4 @@ mPOS商店管理平台：[https://mpos.ctbcbank.com/MP](https://mpos.ctbcbank.co
 關帳時欲查詢當日直接付交易金額，請使用相同查詢功能。
 
 
-
+[回到頂端TOP](#i發票mpos直接付)
