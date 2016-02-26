@@ -115,7 +115,7 @@
 後台設定完成後，請回到App，登入時請點擊右下角「重新下載設定後登入」。
 登入後於點餐頁處，點選左下角印表機圖案，便會出現「重印顧客聯」的按鈕，點擊後，即可印出顧客聯（顧客注文單）。
 
-![Alt text](/PRINTER/flexibleorder-.PNG)
+![Alt text](/PRINTER/flexibleorder-3.PNG)
 
 
 **可以不要印出交易明細嗎？**
@@ -125,7 +125,7 @@
 後台設定完成後，請回到App，登入時請點擊右下角「重新下載設定後登入」。
 結帳時便會詢問是否列印發票明細，而不會強制印出來。
 
-![Alt text](/PRINTER/flexibleorder-.PNG)
+![Alt text](/PRINTER/flexibleorder-4.PNG)
 
 補充說明：「開啟」自動列印明細時，
 有開立發票：印出發票（AB12345678）＋明細
@@ -142,7 +142,7 @@
 
 點選「不選擇印表機」後，該出單機會在印表機管理中顯示「未設定」（如圖）。
 
-![Alt text](/PRINTER/flexibleorder-.PNG)
+![Alt text](/PRINTER/flexibleorder-5.PNG)
 
 以下解釋那些單子由那些出單機印出，出單機皆可藉由「不選擇印表機」控制是否出單：
 
